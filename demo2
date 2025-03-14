@@ -1,0 +1,7 @@
+class demo2
+{
+    public ststic void main(String args[])
+    {
+        System.out.println("CHINTHAKAYLA");
+    }
+}
