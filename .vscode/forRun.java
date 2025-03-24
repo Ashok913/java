@@ -20,7 +20,7 @@ class forRun
         students[1]=f2;
         for(demo n:students)
         {
-            System.err.println("n");
+            System.out.println("n");
         }
 
     }
